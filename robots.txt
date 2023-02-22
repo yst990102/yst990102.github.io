@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://blog.styuan990102.top/sitemap.xml
+Sitemap: https://blog.styuan990102.top/baidusitemap.xml
