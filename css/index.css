@@ -5798,12 +5798,12 @@ blockquote.pullquote.right {
   color: var(--font-color);
 }
 :root {
-    --favourite-music-bg: url(https://bj.bcebos.com/baidu-rmb-video-cover-1/8eac1525ddaa27a057901b15dcf4b750.png); 
-    --game-bg: url(https://images7.alphacoders.com/859/859632.jpg);
-    --fanju-bg: url(https://bj.bcebos.com/baidu-rmb-video-cover-1/b6a43a81c3b3a6b9ec2716e94e9bd2fe.png);
-    --like-bg: url(https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632f0dd8f33c6.webp);
-    --dark-mode-location-bg: url(https://raw.githubusercontent.com/yst990102/PicBed/main/img/Nanjing_1080P_dark.png);
-    --light-mode-location-bg: url(https://raw.githubusercontent.com/yst990102/PicBed/main/img/Nanjing_1080P_light.png);
+    --favourite-music-bg: url(https://vercel.picbed.styuan990102.top/hexo_blog/page-about/音乐偏好.png); 
+    --game-bg: url(https://vercel.picbed.styuan990102.top/hexo_blog/page-about/爱好游戏.jpg);
+    --fanju-bg: url(https://vercel.picbed.styuan990102.top/hexo_blog/page-about/番剧.png);
+    --like-bg: url(https://vercel.picbed.styuan990102.top/hexo_blog/page-about/关注偏好.webp);
+    --dark-mode-location-bg: url(https://vercel.picbed.styuan990102.top/hexo_blog/page-about/Nanjing_1080P_dark.png);
+    --light-mode-location-bg: url(https://vercel.picbed.styuan990102.top/hexo_blog/page-about/Nanjing_1080P_light.png);
 }
 
 #gitcalendar {
